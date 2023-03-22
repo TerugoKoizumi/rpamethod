@@ -161,7 +161,7 @@ print(*a)
 
 続いてGPAWを用いたCu(111)スラブの計算について以下のリンク先で説明します。
 
-https://terugokoizumi.github.io/rpamethod/slab.html
+[ここ](https://terugokoizumi.github.io/rpamethod/slab.html)
 
 
 
