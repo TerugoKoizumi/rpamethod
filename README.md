@@ -1,0 +1,1 @@
+https://terugokoizumi.github.io/rpamethod/
