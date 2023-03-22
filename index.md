@@ -159,5 +159,10 @@ a = [fit(f'Cu-{k:02}.txt') for k in kpoints]
 print(*a)
 ```
 
-./slub.md
+続いてGPAWを用いたCu(111)スラブの計算について以下のリンク先で説明します。
+
+https://terugokoizumi.github.io/rpamethod/slab.html
+
+
+
 
