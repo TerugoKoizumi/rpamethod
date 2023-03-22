@@ -9,7 +9,7 @@
 
 これは以下のURLより手順を踏んで行います。
 
-https://qiita.com/ikutaro_hamada/items/3fcab08ea7e163967c3e
+[インストール手順](https://qiita.com/ikutaro_hamada/items/3fcab08ea7e163967c3e)
 
 <br />
 
@@ -296,7 +296,7 @@ print(e)
 
 まず以下のURLよりSiの凝集エネルギーの計算を実行して見てください。
 
-https://wiki.fysik.dtu.dk/gpaw/tutorialsexercises/energetics/rpa_ex/rpa.html
+[Siを用いたRPA計算例](https://wiki.fysik.dtu.dk/gpaw/tutorialsexercises/energetics/rpa_ex/rpa.html)
 
 この流れでCu(111)スラブの計算も進めていきます。まず以下のスクリプトを作成します。
 
@@ -391,13 +391,9 @@ slab = fcc111('Cu', a=a, size=(1, 1, 4), vacuum=10.0)
 
 ## 6. GPAWとRPAのマニュアル
 
-・GPAW
+[GPAW](https://wiki.fysik.dtu.dk/gpaw/documentation/basic.html#manual-eigensolver)
 
-https://wiki.fysik.dtu.dk/gpaw/documentation/basic.html#manual-eigensolver
-
-・RPA
-
-https://wiki.fysik.dtu.dk/gpaw/documentation/xc/rpa.html#rpa
+[RPA](https://wiki.fysik.dtu.dk/gpaw/documentation/xc/rpa.html#rpa)
 
 これらのURL先にパラメータの詳細が記載されているので確認してください。
 基本Quantum Espressoと扱いはほとんど同じなので、単位にだけ気を付けてください。
