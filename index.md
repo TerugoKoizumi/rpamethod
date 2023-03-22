@@ -159,4 +159,5 @@ a = [fit(f'Cu-{k:02}.txt') for k in kpoints]
 print(*a)
 ```
 
+./slub.md
 
